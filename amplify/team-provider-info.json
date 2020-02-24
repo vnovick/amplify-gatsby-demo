@@ -10,6 +10,11 @@
             "StackName": "amplify-gatsby-site-dev-151233",
             "StackId": "arn:aws:cloudformation:us-east-1:761986747323:stack/amplify-gatsby-site-dev-151233/550b4150-5707-11ea-b8ac-0e3edd8361ed",
             "AmplifyAppId": "dkfgnfgkj8v4h"
+        },
+        "categories": {
+            "auth": {
+                "gatsbysite87e0d183": {}
+            }
         }
     }
 }
